@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @algorr
-- 👀 I’m interested in machine learning and mobile application developing.
-- 🌱 I’m currently learning python and dart&flutter languages and SDK.
-- 💞️ I’m looking to collaborate on AI and Mobile App Development.
-- 📫 How to reach me -----> flutterdiaries.com / umitkar08@gmail.com
+- 👀 I’m interested in mobile application developing abd machine learning.
+- 🌱 I’m currently learning flutter and python languages and SDK.
+- 💞️ I’m looking to collaborate on Mobile App Development and AI.
+- 📫 How to reach me ----->  umitkar08@gmail.com
 
 <!---
 algorr/algorr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
