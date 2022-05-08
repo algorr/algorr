@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @algorr
-- 👀 I’m interested in mobile application developing abd machine learning.
+- 👀 I’m interested in mobile application developing and machine learning.
 - 🌱 I’m currently learning flutter and python languages and SDK.
 - 💞️ I’m looking to collaborate on Mobile App Development and AI.
 - 📫 How to reach me ----->  umitkar08@gmail.com
