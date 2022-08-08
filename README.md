@@ -1,7 +1,7 @@
-<h1 align="center">[![MasterHead](https://docs.flutter.dev/assets/images/dash/dash-fainting.gif)](https://github.com/algorr)</h1>
+[![MasterHead](https://docs.flutter.dev/assets/images/dash/dash-fainting.gif)](https://github.com/algorr)
 <h1 align="center">Hi 👋, I'm Ümit Kar</h1>
 <h3 align="center">Those who couldn't hear the music thought the dancers were crazy.</h3>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/U8Yg.gif”>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=algorr&label=Profile%20views&color=0e75b6&style=flat" alt="algorr" /> </p>
 
