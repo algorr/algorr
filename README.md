@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=algorr" alt="algorr" /></a> </p>
 
-- 🔭 I’m currently working on **Slider**
+- 🔭 I’m currently working on **WorkerTracker**
 
 - 🌱 I’m currently learning **Flutter, Dart, Swift, Node.Js**
 
