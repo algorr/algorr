@@ -17,6 +17,8 @@
 
 - 📫 How to reach me **umitkar08@gmail.com**
 
+- Medium : https://medium.com/@umitkar
+
 - ⚡ Fun fact **Listen to the music**
 
 <h3 align="left">Connect with me:</h3>
