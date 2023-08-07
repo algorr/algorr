@@ -1,6 +1,6 @@
 [![MasterHead](https://docs.flutter.dev/assets/images/dash/dash-fainting.gif)](https://github.com/algorr)
 <h1 align="center">Hi 👋, I'm Ümit Kar</h1>
-<h3 align="center">The music can't stop.</h3>
+<h3 align="center">Never Stop the Improvement.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=algorr&label=Profile%20views&color=0e75b6&style=flat" alt="algorr" /> </p>
