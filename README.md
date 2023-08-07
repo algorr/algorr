@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/E89xxATM4iZoPdr6Tb/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/E89xxATM4iZoPdr6Tb/giphy.gif" width="400"/>
 </div>
 <h1 align="center">Hi 👋, I'm Ümit Kar</h1>
 <h3 align="center">Never Stop the Improvement.</h3>
