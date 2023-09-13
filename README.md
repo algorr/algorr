@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/E89xxATM4iZoPdr6Tb/giphy.gif" width="600"/>
 </div>
 <h1 align="center">Hi 👋, I'm Ümit Kar</h1>
-<h3 align="center">Never Stop the Improvement.</h3>
+<h3 align="center">Do not chase the butterflies, make your garden beautiful.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=algorr&label=Profile%20views&color=0e75b6&style=flat" alt="algorr" /> </p>
