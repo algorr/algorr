@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **WorkerTracker**
 
-- 🌱 I’m currently learning **Flutter, Dart, Swift, Node.Js**
+- 🌱 I’m currently working on **Flutter, Dart, Swift, Node.Js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/algorr?tab=repositories](https://github.com/algorr?tab=repositories)
 
