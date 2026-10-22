@@ -9,43 +9,43 @@ text { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "L
 </style>
 <defs>
 <clipPath id="win"><rect width="900" height="690" rx="12"/></clipPath>
-<clipPath id="c1"><rect x="162.9" y="171.6" height="21" width="0"><animate attributeName="width" from="0" to="52.6" begin="1.99s" dur="0.35s" fill="freeze"/></rect></clipPath><clipPath id="c2"><rect x="162.9" y="247.2" height="21" width="0"><animate attributeName="width" from="0" to="111.6" begin="3.28s" dur="0.71s" fill="freeze"/></rect></clipPath><clipPath id="c3"><rect x="162.9" y="385.8" height="21" width="0"><animate attributeName="width" from="0" to="103.2" begin="5.29s" dur="0.66s" fill="freeze"/></rect></clipPath><clipPath id="c4"><rect x="162.9" y="440.40000000000003" height="21" width="0"><animate attributeName="width" from="0" to="120.0" begin="6.77s" dur="0.77s" fill="freeze"/></rect></clipPath><clipPath id="c5"><rect x="162.9" y="579.0000000000001" height="21" width="0"><animate attributeName="width" from="0" to="145.3" begin="8.84s" dur="0.94s" fill="freeze"/></rect></clipPath>
+<clipPath id="c1"><rect x="154.4" y="171.6" height="21" width="0"><animate attributeName="width" from="0" to="52.6" begin="1.99s" dur="0.35s" fill="freeze"/></rect></clipPath><clipPath id="c2"><rect x="154.4" y="247.2" height="21" width="0"><animate attributeName="width" from="0" to="111.6" begin="3.28s" dur="0.71s" fill="freeze"/></rect></clipPath><clipPath id="c3"><rect x="154.4" y="385.8" height="21" width="0"><animate attributeName="width" from="0" to="103.2" begin="5.29s" dur="0.66s" fill="freeze"/></rect></clipPath><clipPath id="c4"><rect x="154.4" y="440.40000000000003" height="21" width="0"><animate attributeName="width" from="0" to="120.0" begin="6.77s" dur="0.77s" fill="freeze"/></rect></clipPath><clipPath id="c5"><rect x="154.4" y="579.0000000000001" height="21" width="0"><animate attributeName="width" from="0" to="145.3" begin="8.84s" dur="0.94s" fill="freeze"/></rect></clipPath>
 </defs>
 <g clip-path="url(#win)">
 <rect width="900" height="690" fill="#0d1117"/>
 <rect width="900" height="36" fill="#161b22"/>
 <circle cx="22" cy="18" r="6" fill="#ff5f56"/><circle cx="42" cy="18" r="6" fill="#ffbd2e"/><circle cx="62" cy="18" r="6" fill="#27c93f"/>
-<text x="450.0" y="22" text-anchor="middle" fill="#6e7681" class="ttl">umit@archeus — tty1</text>
+<text x="450.0" y="22" text-anchor="middle" fill="#6e7681" class="ttl">ceo@archeus — tty1</text>
 <text x="28" y="70" class="l" style="animation-delay:0.30s"><tspan fill="#58a6ff">ARCHEUS BIOS v1.0</tspan><tspan fill="#6e7681">  ·  booting </tspan><tspan fill="#c9d1d9">umit.kar</tspan></text>
 <text x="28" y="91" class="l" style="animation-delay:0.42s"><tspan fill="#c9d1d9">[ </tspan><tspan fill="#3fb950">OK</tspan><tspan fill="#c9d1d9"> ] </tspan><tspan fill="#c9d1d9">Loaded kernel: electrical-electronics-engineer (BSc 2010)</tspan></text>
 <text x="28" y="112" class="l" style="animation-delay:0.70s"><tspan fill="#c9d1d9">[ </tspan><tspan fill="#3fb950">OK</tspan><tspan fill="#c9d1d9"> ] </tspan><tspan fill="#c9d1d9">Started flutter · dart · firebase · swift · unity · blender</tspan></text>
 <text x="28" y="133" class="l" style="animation-delay:0.98s"><tspan fill="#c9d1d9">[</tspan><tspan fill="#d29922">WARN</tspan><tspan fill="#c9d1d9">] </tspan><tspan fill="#6e7681">sleep.service: unit not found, skipping</tspan></text>
 <text x="28" y="154" class="l" style="animation-delay:1.26s"><tspan fill="#c9d1d9">[ </tspan><tspan fill="#3fb950">OK</tspan><tspan fill="#c9d1d9"> ] </tspan><tspan fill="#c9d1d9">Reached target archeus-os.target</tspan></text>
-<text x="28" y="187.6" class="l" style="animation-delay:1.89s"><tspan fill="#3fb950">umit@archeus</tspan><tspan fill="#c9d1d9">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#c9d1d9">$ </tspan></text>
-<text x="162.9" y="187.6" fill="#c9d1d9" clip-path="url(#c1)">whoami</text>
+<text x="28" y="187.6" class="l" style="animation-delay:1.89s"><tspan fill="#3fb950">ceo@archeus</tspan><tspan fill="#c9d1d9">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#c9d1d9">$ </tspan></text>
+<text x="154.4" y="187.6" fill="#c9d1d9" clip-path="url(#c1)">whoami</text>
 <text x="28" y="208.6" class="l" style="animation-delay:2.59s"><tspan fill="#f0c674">Ümit Kar</tspan><tspan fill="#c9d1d9"> — electrical engineer turned solo builder.</tspan></text>
 <text x="28" y="229.6" class="l" style="animation-delay:2.71s"><tspan fill="#c9d1d9">Shipped 9 AI apps alone. Now writing an OS whose only interface is AI.</tspan></text>
-<text x="28" y="263.2" class="l" style="animation-delay:3.18s"><tspan fill="#3fb950">umit@archeus</tspan><tspan fill="#c9d1d9">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#c9d1d9">$ </tspan></text>
-<text x="162.9" y="263.2" fill="#c9d1d9" clip-path="url(#c2)">ps --projects</text>
+<text x="28" y="263.2" class="l" style="animation-delay:3.18s"><tspan fill="#3fb950">ceo@archeus</tspan><tspan fill="#c9d1d9">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#c9d1d9">$ </tspan></text>
+<text x="154.4" y="263.2" fill="#c9d1d9" clip-path="url(#c2)">ps --projects</text>
 <text x="28" y="284.2" class="l" style="animation-delay:4.25s"><tspan fill="#6e7681">PID  PROCESS           STATE     DOES</tspan></text>
 <text x="28" y="305.2" class="l" style="animation-delay:4.37s"><tspan fill="#6e7681">001  </tspan><tspan fill="#f0c674">archeus-os        </tspan><tspan fill="#3fb950">RUNNING   </tspan><tspan fill="#c9d1d9">AI-only operating system for ARM · Raspberry Pi</tspan></text>
 <text x="28" y="326.2" class="l" style="animation-delay:4.49s"><tspan fill="#6e7681">042  </tspan><tspan fill="#58a6ff">creature-rigger   </tspan><tspan fill="#3fb950">RUNNING   </tspan><tspan fill="#c9d1d9">Mixamo for spiders &amp; quadrupeds · 8 clicks → walk</tspan></text>
 <text x="28" y="347.2" class="l" style="animation-delay:4.61s"><tspan fill="#6e7681">107  </tspan><tspan fill="#58a6ff">desk-robot        </tspan><tspan fill="#d29922">BOOTING   </tspan><tspan fill="#c9d1d9">ESP32-S3 robot that roams my desk and talks back</tspan></text>
 <text x="28" y="368.2" class="l" style="animation-delay:4.73s"><tspan fill="#6e7681">213  </tspan><tspan fill="#58a6ff">quest-mr          </tspan><tspan fill="#3fb950">RUNNING   </tspan><tspan fill="#c9d1d9">hand-tracked MR / VR on Meta Quest</tspan></text>
-<text x="28" y="401.8" class="l" style="animation-delay:5.20s"><tspan fill="#3fb950">umit@archeus</tspan><tspan fill="#c9d1d9">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#c9d1d9">$ </tspan></text>
-<text x="162.9" y="401.8" fill="#c9d1d9" clip-path="url(#c3)">ls ~/shipped</text>
+<text x="28" y="401.8" class="l" style="animation-delay:5.20s"><tspan fill="#3fb950">ceo@archeus</tspan><tspan fill="#c9d1d9">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#c9d1d9">$ </tspan></text>
+<text x="154.4" y="401.8" fill="#c9d1d9" clip-path="url(#c3)">ls ~/shipped</text>
 <text x="28" y="422.8" class="l" style="animation-delay:6.21s"><tspan fill="#d2a8ff">MicMind  </tspan><tspan fill="#d2a8ff">Rockai  </tspan><tspan fill="#d2a8ff">Reverso  </tspan><tspan fill="#d2a8ff">Videai  </tspan><tspan fill="#d2a8ff">Bana-AI  </tspan><tspan fill="#d2a8ff">SlideFlow  </tspan><tspan fill="#d2a8ff">SnapCal  </tspan><tspan fill="#d2a8ff">Luminario  </tspan><tspan fill="#d2a8ff">Asogenie  </tspan></text>
-<text x="28" y="456.40000000000003" class="l" style="animation-delay:6.67s"><tspan fill="#3fb950">umit@archeus</tspan><tspan fill="#c9d1d9">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#c9d1d9">$ </tspan></text>
-<text x="162.9" y="456.40000000000003" fill="#c9d1d9" clip-path="url(#c4)">cat career.log</text>
+<text x="28" y="456.40000000000003" class="l" style="animation-delay:6.67s"><tspan fill="#3fb950">ceo@archeus</tspan><tspan fill="#c9d1d9">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#c9d1d9">$ </tspan></text>
+<text x="154.4" y="456.40000000000003" fill="#c9d1d9" clip-path="url(#c4)">cat career.log</text>
 <text x="28" y="477.40000000000003" class="l" style="animation-delay:7.79s"><tspan fill="#6e7681">2010 </tspan><tspan fill="#c9d1d9">control engineer · building inspection</tspan></text>
 <text x="28" y="498.40000000000003" class="l" style="animation-delay:7.92s"><tspan fill="#6e7681">2015 </tspan><tspan fill="#c9d1d9">customer service engineer · MEDAŞ</tspan></text>
 <text x="28" y="519.4000000000001" class="l" style="animation-delay:8.04s"><tspan fill="#6e7681">2016 </tspan><tspan fill="#c9d1d9">after-sales manager · Mepsan</tspan></text>
 <text x="28" y="540.4000000000001" class="l" style="animation-delay:8.15s"><tspan fill="#6e7681">2018 </tspan><tspan fill="#ff7b72">git checkout -b builder</tspan></text>
 <text x="28" y="561.4000000000001" class="l" style="animation-delay:8.27s"><tspan fill="#6e7681">now  </tspan><tspan fill="#f0c674">9 apps shipped · writing an OS · teaching robots to talk</tspan></text>
-<text x="28" y="595.0000000000001" class="l" style="animation-delay:8.74s"><tspan fill="#3fb950">umit@archeus</tspan><tspan fill="#c9d1d9">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#c9d1d9">$ </tspan></text>
-<text x="162.9" y="595.0000000000001" fill="#c9d1d9" clip-path="url(#c5)">./archeus --motto</text>
+<text x="28" y="595.0000000000001" class="l" style="animation-delay:8.74s"><tspan fill="#3fb950">ceo@archeus</tspan><tspan fill="#c9d1d9">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#c9d1d9">$ </tspan></text>
+<text x="154.4" y="595.0000000000001" fill="#c9d1d9" clip-path="url(#c5)">./archeus --motto</text>
 <text x="28" y="616.0000000000001" class="l" style="animation-delay:10.03s"><tspan fill="#f0c674">Do not chase the butterflies, make your garden beautiful.</tspan></text>
-<text x="28" y="649.6000000000001" class="l" style="animation-delay:10.45s"><tspan fill="#3fb950">umit@archeus</tspan><tspan fill="#c9d1d9">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#c9d1d9">$ </tspan></text>
-<rect x="162.9" y="636.6000000000001" width="8" height="17" fill="#c9d1d9" class="cur" style="animation-delay:10.45s,10.45s"/>
+<text x="28" y="649.6000000000001" class="l" style="animation-delay:10.45s"><tspan fill="#3fb950">ceo@archeus</tspan><tspan fill="#c9d1d9">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#c9d1d9">$ </tspan></text>
+<rect x="154.4" y="636.6000000000001" width="8" height="17" fill="#c9d1d9" class="cur" style="animation-delay:10.45s,10.45s"/>
 </g>
 </svg>
