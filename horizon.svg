@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="260" viewBox="0 0 840 260" role="img" aria-label="Archeus horizon">
+  <style>
+    .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+    .glow { animation: breathe 4s ease-in-out infinite; transform-origin: 420px 120px; }
+    @keyframes breathe { 0%,100% { opacity: .55; transform: scale(1); } 50% { opacity: 1; transform: scale(1.08); } }
+    .line { stroke-dasharray: 560; stroke-dashoffset: 560; animation: draw 2.2s ease-out forwards; }
+    @keyframes draw { to { stroke-dashoffset: 0; } }
+    .fade { opacity: 0; animation: f 1.2s ease-out forwards 1.6s; }
+    @keyframes f { to { opacity: 1; } }
+  </style>
+  <defs>
+    <radialGradient id="g" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#f0c674" stop-opacity=".55"/>
+      <stop offset="1" stop-color="#f0c674" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="top"><rect x="0" y="0" width="840" height="120"/></clipPath>
+    <clipPath id="bot"><rect x="0" y="120" width="840" height="140"/></clipPath>
+  </defs>
+
+  <rect width="840" height="260" rx="12" fill="#0d1117"/>
+  <circle class="glow" cx="420" cy="120" r="110" fill="url(#g)"/>
+
+  <circle cx="420" cy="120" r="44" fill="#f0c674" clip-path="url(#top)"/>
+  <circle cx="420" cy="120" r="44" fill="none" stroke="#f0c674" stroke-width="2" stroke-dasharray="4 5" opacity=".7" clip-path="url(#bot)"/>
+  <line class="line" x1="140" y1="120" x2="700" y2="120" stroke="#c9d1d9" stroke-width="1.5"/>
+
+  <text class="mono fade" x="420" y="208" text-anchor="middle" fill="#c9d1d9" font-size="20" letter-spacing="6">ARCHEUS OS</text>
+  <text class="mono fade" x="420" y="236" text-anchor="middle" fill="#6e7681" font-size="13">the AI operating system that wants you to look away</text>
+</svg>
