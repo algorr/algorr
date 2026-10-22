@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/terminal-ceo1.svg" width="100%" alt="Ümit Kar — electrical engineer turned solo builder. Shipped 9 AI apps, now building Archeus OS." />
+<img src="assets/terminal-jb1.svg" width="100%" alt="Ümit Kar — electrical engineer turned solo builder. Shipped 9 AI apps, now building Archeus OS." />
 
 <br/><br/>
 
@@ -17,6 +17,6 @@
 
 <br/><br/>
 
-<a href="https://archeusos.com"><img src="assets/horizon.svg" width="100%" alt="Archeus OS — the AI operating system that wants you to look away" /></a>
+<a href="https://archeusos.com"><img src="assets/archeus-intro1.svg" width="100%" alt="Archeus OS — the AI operating system that wants you to look away" /></a>
 
 </div>
