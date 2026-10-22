@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/terminal.svg" width="100%" alt="Ümit Kar — electrical engineer turned solo builder. Shipped 9 AI apps, now building Archeus OS." />
+<img src="assets/terminal.svg?v=2" width="100%" alt="Ümit Kar — electrical engineer turned solo builder. Shipped 9 AI apps, now building Archeus OS." />
 
 <br/><br/>
 
