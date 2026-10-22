@@ -1,72 +1,88 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1200&color=0E75B6&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+%C3%9Cmit+Kar+%F0%9F%91%8B;Building+an+AI-only+operating+system;Shipped+9+AI+apps+as+a+solo+dev;Electrical+engineer+turned+builder" alt="Typing intro" />
-
-<h3>Do not chase the butterflies, make your garden beautiful. 🦋</h3>
-
-<p>
-  <a href="https://archeusos.com"><img src="https://img.shields.io/badge/Archeus_OS-archeusos.com-111?style=for-the-badge&logo=raspberrypi&logoColor=white" /></a>
-  <a href="https://aiflowapps.com"><img src="https://img.shields.io/badge/AiFlowApps-aiflowapps.com-0e75b6?style=for-the-badge&logo=flutter&logoColor=white" /></a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=algorr&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+<img src="assets/boot.svg" width="100%" alt="umit.kar booting up" />
 
 </div>
 
----
+```console
+umit@konya:~$ whoami
+```
 
-### 🧠 About me
+> **Ümit Kar** — electrical engineer turned solo builder.
+> I shipped 9 AI apps on my own, and now I'm writing an operating system where the only interface is AI.
 
-Solo indie developer from Konya, Turkey. Electrical-electronics engineer by training, builder by habit.
-For the past six years I've been shipping mobile apps — these days almost everything I build has AI at its core:
-apps, operating systems, VR worlds and small robots that sit on my desk and talk back.
+```console
+umit@konya:~$ ps aux --sort=-%cpu
+```
 
-### 🔭 What I'm building right now
+```text
+PID   PROCESS                 STATE      %CPU   DESCRIPTION
+───   ─────────────────────   ────────   ────   ──────────────────────────────────────────────────
+ 001  archeus-os              RUNNING    78.0   AI-only OS for ARM. No home screen, no app grid.
+                                                 Raspberry Pi Zero 2 W · Linux · LLMs
+ 042  creature-rigger         RUNNING    11.4   Mixamo, but for spiders, quadrupeds & insects.
+                                                 8 clicks → rig + procedural IK walk → FBX/GLB
+                                                 Three.js · Python · Blender (bpy)
+ 107  desk-robot              BOOTING     5.2   Tiny wheeled robot that roams my desk and talks back.
+                                                 ESP32-S3 · realtime voice · round LCD · 3D-printed
+ 213  quest-mr                RUNNING     3.9   Hand-tracked MR & "what do you want to be today?" VR
+                                                 Unity · Blender · Meta Quest
+ 404  sleep                   NOT FOUND   0.0   —
+```
 
-| Project | What it is | Stack |
-|---|---|---|
-| 🌅 **[Archeus OS](https://archeusos.com)** | A from-scratch operating system for ARM where the only interface is AI. No app grid, no home screen. *The AI operating system that wants you to look away.* | Raspberry Pi Zero 2 W · Linux · LLMs |
-| 🕷️ **Creature Auto-Rigger** | Mixamo, but for spiders, quadrupeds and insects. Click 8 points, get a rig with procedural IK walk and foot placement. Exports FBX/GLB + Unity/Godot runtime. | Three.js · Python · Blender (bpy) |
-| 🤖 **Desk Companion Robot** | A tiny wheeled robot with a round display that roams my desk and holds real-time voice conversations. 3D-printed chassis. | ESP32-S3 · OpenAI realtime voice · C++ |
-| 🥽 **VR / MR on Meta Quest** | Hand-tracked mixed-reality and embodiment games — *"What do you want to be today?"* | Unity · Blender · Quest SDK |
+```console
+umit@konya:~$ ls /apps --shipped
+```
 
-### 🚀 Shipped
+```text
+MicMind/   Rockai/   Reverso/   Videai/   Bana-AI/   SlideFlow/   SnapCal/   Luminario/   Asogenie/
 
-**9 AI-powered apps** under [AiFlowApps](https://aiflowapps.com):
-`MicMind` · `Rockai` · `Reverso` · `Videai` · `Bana AI` · `SlideFlow` · `SnapCal` · `Luminario` · `Asogenie`
+9 apps · built solo · shipped under AiFlowApps
+```
 
-### 🛠️ Tech I use
+```console
+umit@konya:~$ cat /var/log/career
+```
+
+```text
+2010  [boot]  BSc Electrical-Electronics Engineering, Dumlupınar University
+2010  [job ]  Control engineer, building inspection
+2015  [job ]  Customer service engineer, MEDAŞ
+2016  [job ]  After-sales manager, Mepsan
+2018  [fork]  Left the corporate process → started building software
+2026  [now ]  9 apps shipped · writing an OS · teaching robots to talk
+```
+
+```console
+umit@konya:~$ which --all stack
+```
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,swift,kotlin,nodejs,python,cpp,threejs,unity,blender,raspberrypi,arduino,linux,figma,git&perline=8" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,swift,kotlin,nodejs,python,cpp,threejs,unity,blender,raspberrypi,arduino,linux,figma,git&perline=8" alt="stack" />
 </p>
 
-### 💬 Ask me about
-
-Flutter & Dart · shipping AI apps solo · Firebase · Meta Quest dev · procedural animation · hardware + LLMs
-
-### 📫 Find me
+```console
+umit@konya:~$ ping umit
+```
 
 <p>
-  <a href="https://twitter.com/kar_umit"><img src="https://img.shields.io/badge/X-@kar__umit-000?style=flat-square&logo=x&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/ümit-kar"><img src="https://img.shields.io/badge/LinkedIn-Ümit_Kar-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/flutter.diaries"><img src="https://img.shields.io/badge/Instagram-flutter.diaries-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
-  <a href="https://medium.com/@umitkar"><img src="https://img.shields.io/badge/Medium-@umitkar-000?style=flat-square&logo=medium&logoColor=white" /></a>
-  <a href="mailto:umitkar08@gmail.com"><img src="https://img.shields.io/badge/Email-umitkar08@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://archeusos.com"><img src="https://img.shields.io/badge/archeusos.com-0d1117?style=for-the-badge&logo=raspberrypi&logoColor=f0c674" /></a>
+  <a href="https://aiflowapps.com"><img src="https://img.shields.io/badge/aiflowapps.com-0d1117?style=for-the-badge&logo=flutter&logoColor=58a6ff" /></a>
+  <a href="https://twitter.com/kar_umit"><img src="https://img.shields.io/badge/@kar__umit-0d1117?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/ümit-kar"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
+  <a href="https://medium.com/@umitkar"><img src="https://img.shields.io/badge/Medium-0d1117?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://instagram.com/flutter.diaries"><img src="https://img.shields.io/badge/flutter.diaries-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F" /></a>
+  <a href="mailto:umitkar08@gmail.com"><img src="https://img.shields.io/badge/mail-0d1117?style=for-the-badge&logo=gmail&logoColor=D14836" /></a>
 </p>
 
-### 📊 Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=algorr&show_icons=true&hide_border=true&theme=transparent" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=algorr&layout=compact&hide_border=true&theme=transparent" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=algorr&hide_border=true&theme=transparent" />
-</p>
+```console
+umit@konya:~$ shutdown --look-away
+```
 
 <div align="center">
 
-⚡ *Fun fact: I write better code with music on.* 🎧
+<a href="https://archeusos.com"><img src="assets/horizon.svg" width="100%" alt="Archeus OS" /></a>
+
+<sub>Do not chase the butterflies, make your garden beautiful. · <img src="https://komarev.com/ghpvc/?username=algorr&label=visitors&color=0d1117&style=flat-square" alt="visitors" /></sub>
 
 </div>
